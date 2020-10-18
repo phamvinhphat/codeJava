@@ -1,6 +1,0 @@
-
-public interface Student {
-	public static void student() {
-		System.out.println("Pham vinh phat");
-	}
-}

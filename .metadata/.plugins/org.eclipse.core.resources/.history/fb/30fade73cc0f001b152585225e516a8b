@@ -1,7 +1,0 @@
-
-public class User {
-	public void charge() {
-		school sh = new school();
-		sh.School();
-	}
-}

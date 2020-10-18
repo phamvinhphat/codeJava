@@ -1,4 +1,0 @@
-
-public interface University {
-	public String calculatePoint(int point);
-}
