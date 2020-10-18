@@ -1,0 +1,6 @@
+
+public class UniversityB implements University{
+	public String calculatePoint(float point) {
+		return new Integer(Math.round(point / (float)10.0)).toString();
+	}
+}

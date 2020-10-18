@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;b&apos; from expression &apos;i == i&apos;&#x0D;&#x0A;- Original project: &apos;threeMusketeers&apos;&#x0D;&#x0A;- Variable name: &apos;b&apos;&#x0D;&#x0A;- Destination method: &apos;threeMusketeers.problem1.is_enemy_board()&apos;&#x0D;&#x0A;- Variable expression: &apos;i == i&apos;" description="Extract local variable &apos;b&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;threeMusketeers{problem1.java" name="b" replace="false" selection="6306 4" stamp="1595458740712" varType="false" version="1.0"/>
+</session>
